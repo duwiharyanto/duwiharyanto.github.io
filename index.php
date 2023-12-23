@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -127,7 +126,7 @@
 							<p class="mb-0">Email: <span class="text-dark">haryanto.duwi@gmail.com</span></p>
 						</div>
 					</div>
-					<a href="berkas/cvduwi.jpg" target="_blank" class="btn btn-default mr-3"><i class="icon-cloud-download"></i>Download CV</a>
+					<a href="berkas/cv_duwi.pdf" target="_blank" class="btn btn-default mr-3"><i class="icon-cloud-download"></i>Download CV</a>
 					<a href="#" class="btn btn-alt mt-2 mt-md-0 mt-xs-2"><i class="icon-envelope"></i>Pekerjakan Saya</a>
 				</div>
 			</div>
